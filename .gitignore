@@ -1,0 +1,13 @@
+# Compiled files
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+mood notesApp.log
+moodnotesApp.log
