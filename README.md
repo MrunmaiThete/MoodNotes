@@ -1,5 +1,5 @@
 # MoodNotes
-A smart personal journal app that tracks your mood and sends weekly sentiment email reports.
+A smart journal app that tracks your mood and sends weekly sentiment email reports.
 
 ## Features
 - JWT Authentication & Authorization
